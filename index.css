@@ -1,0 +1,23 @@
+.navbar{
+    background-color: blue;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: end;
+}
+.a {
+  
+    display: none;
+}
+.b {
+    display: block;
+}
+.hh{
+    cursor: pointer;
+}
+.tag {
+    color: red;
+}
+.red {
+    color: blue;
+}
